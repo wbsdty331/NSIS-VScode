@@ -2,7 +2,7 @@
 This Extension will add NSIS Syntax Highlighting in [Visual Studio Code](https://github.com/Microsoft/vscode).
 
 ## Screenshots
-
+![](https://raw.githubusercontent.com/wbsdty331/NSIS-VScode/master/screenshots/Screenshot1.png)
 
 ## Installation
 * Download ZIP
