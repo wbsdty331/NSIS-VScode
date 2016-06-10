@@ -1,0 +1,26 @@
+{
+    "name": "nsis",
+    "displayName": "NSIS-VScode",
+    "description": "add NSIS Script Syntax Highlighting in vsode.",
+    "version": "1.0.0",
+    "publisher": "wbsdty331",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "nsis",
+            "aliases": ["NSIS", "nsis"],
+            "extensions": [".nsi",".nsh"],
+            "configuration": "./nsis.configuration.json"
+        }],
+        "grammars": [{
+            "language": "nsis",
+            "scopeName": "source.nsis",
+            "path": "./syntaxes/nsis.tmLanguage"
+        }]
+    }
+}
