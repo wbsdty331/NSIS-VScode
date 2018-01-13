@@ -14,6 +14,7 @@ This Extension can support NSIS Syntax Highlighting in [Visual Studio Code](http
 + [NodeJS](https://github.com/atom/electron)
 + [NSIS Bundle for Sublime Text 3](https://github.com/SublimeText/NSIS/tree/st2-master)
 + [Yeoman](https://github.com/Microsoft/vscode-generator-code)
++ [TypeScript](http://www.typescriptlang.org/)
 
 
 ## License
